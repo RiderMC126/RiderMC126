@@ -31,5 +31,6 @@
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiderMC126&layout=compact&langs_count=10&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiderMC126&layout=compact&langs_count=10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
