@@ -13,7 +13,8 @@ I'm Python Developer.
 <a title="Gmail" href="mailto:ridermc123@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Написать на почту">
 </a>
-
 <hr>
-<strong>Language and Tools</strong>
+<h3>Language and Tools:</h3>
+<br>
+
 
