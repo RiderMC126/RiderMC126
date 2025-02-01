@@ -10,16 +10,16 @@
   </ul>
 </div>
 <br>
-<div>Вы можете связать со мной: </div>
-<a title="Telegram" href="https://t.me/C16H13ClN2O2" target="_blank">
+<div id="Contact">
+  <h4>Вы можете связать со мной: </h4>
+  <a title="Telegram" href="https://t.me/C16H13ClN2O2" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Написать в Telegram" />
-</a>
+  </a>
+  <a title="Gmail" href="mailto:ridermc123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Написать на почту">
+  </a>
+</div>
 <br>
-<a title="Gmail" href="mailto:ridermc123@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Написать на почту">
-</a>
-<hr>
-<h3>Language and Tools:</h3>
-<br>
-
+<h3>Languages and Tools</h3>
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
 
