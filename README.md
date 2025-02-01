@@ -15,6 +15,7 @@
   <a title="Telegram" href="https://t.me/C16H13ClN2O2" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Написать в Telegram" />
   </a>
+  <br>
   <a title="Gmail" href="mailto:ridermc123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Написать на почту">
   </a>
