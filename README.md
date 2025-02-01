@@ -6,7 +6,10 @@ I'm Python Developer.
 </ul>
 <br>
 <div>Вы можете связать со мной: </div>
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<a title="Telegram" href="https://t.me/ваш_логин" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Написать в Telegram" />
+</a>
+
 <hr>
 <strong>Language and Tools</strong>
 
