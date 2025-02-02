@@ -45,7 +45,6 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiderMC126&layout=compact&langs_count=10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
 <h3>Profile views counter</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{RiderMC126}/count.svg)
