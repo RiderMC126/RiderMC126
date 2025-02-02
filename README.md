@@ -41,6 +41,7 @@
 <h3>Frameworks</h3>
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=python&logoColor=white)
 <br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiderMC126&layout=compact&show_icons=true&theme=dracula)
