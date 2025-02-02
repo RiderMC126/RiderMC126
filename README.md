@@ -47,5 +47,8 @@
 <h3>Profile views counter</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{RiderMC126}/count.svg)
+<br>
+<br>
+![Leetcode Stats](https://leetcard.jacoblin.cool/RiderMC)
 
 
