@@ -43,7 +43,6 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiderMC126&layout=compact&langs_count=10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiderMC126&layout=compact&show_icons=true&theme=dracula)
 <br>
 <h3>Profile views counter</h3>
