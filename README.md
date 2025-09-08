@@ -53,6 +53,7 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiderMC126&layout=compact&show_icons=true&langs_count=5&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiderMC126)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
