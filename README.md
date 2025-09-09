@@ -52,7 +52,7 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiderMC126&layout=compact&show_icons=true&langs_count=7&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiderMC126&layout=compact&show_icons=true&langs_count=8&theme=dracula)
 <br>
 
 
