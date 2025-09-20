@@ -12,7 +12,7 @@
 <br>
 <div id="Contact">
   <h4>Вы можете связать со мной: </h4>
-  <a title="Telegram" href="https://t.me/C16H13ClN2O2" target="_blank">
+  <a title="Telegram" href="https://t.me/NoLogs99" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Написать в Telegram" />
   </a>
   <br>
